@@ -1,0 +1,113 @@
+M-Audio KeyRig 49 MIDI Keyboard User Manual
+
+Table of Contents
+
+Introduction
+System Requirements
+Product Overview
+Installation and Setup
+Connecting the KeyRig 49 to Your Computer
+Installing Drivers (if needed)
+Configuring in Your DAW (Digital Audio Workstation)
+Basic Operation
+Powering On/Off
+Playing Notes
+Using Pitch Bend and Modulation Wheels
+Adjusting Volume and Octave Controls
+Advanced Features
+Assigning Controls
+Using with Virtual Instruments
+MIDI Mapping
+Troubleshooting
+Specifications
+Safety and Maintenance
+Warranty Information
+1. Introduction
+
+Welcome to the M-Audio KeyRig 49 MIDI Keyboard! This manual is designed to help you get started with your new MIDI controller, guiding you through the setup process, basic operation, and more advanced features. Whether you're a beginner or a seasoned producer, the KeyRig 49 provides a versatile and user-friendly experience to enhance your music production workflow.
+
+2. System Requirements
+
+To use the M-Audio KeyRig 49, ensure your system meets the following requirements:
+
+Operating System: Windows 7 or later, macOS 10.7 or later
+RAM: 2 GB minimum
+USB Port: Available USB 1.1 or 2.0 port
+Software: Compatible with all major DAWs (e.g., Ableton Live, FL Studio, Logic Pro, etc.)
+3. Product Overview
+
+The M-Audio KeyRig 49 is a 49-key MIDI controller designed to provide hands-on control for your music production. It features:
+
+49 full-size, velocity-sensitive keys
+Pitch Bend and Modulation wheels
+Volume slider
+Octave Up/Down buttons
+Sustain pedal input
+USB connection for easy setup and power supply
+4. Installation and Setup
+
+Connecting the KeyRig 49 to Your Computer
+Power Off your computer before connecting the keyboard.
+Plug the provided USB cable into the USB port on the back of the KeyRig 49.
+Connect the other end of the USB cable to an available USB port on your computer.
+Turn on your computer. The KeyRig 49 is bus-powered, so it will turn on automatically when connected.
+Installing Drivers (if needed)
+Windows: The KeyRig 49 is class-compliant, meaning no drivers are required. However, M-Audio provides an optional driver for improved performance. Visit the M-Audio website and download the latest driver for your operating system.
+macOS: No drivers are necessary as the device is class-compliant.
+Configuring in Your DAW (Digital Audio Workstation)
+Open your DAW software.
+Go to the MIDI/Audio settings menu.
+Ensure the KeyRig 49 is listed and enabled as a MIDI input device.
+If needed, configure the MIDI mapping for your specific DAW.
+5. Basic Operation
+
+Powering On/Off
+The KeyRig 49 powers on automatically when connected to your computer via USB. To turn it off, simply disconnect the USB cable.
+Playing Notes
+Press any of the 49 keys to send MIDI note data to your DAW or virtual instrument. The velocity-sensitive keys will respond to how hard or soft you play.
+Using Pitch Bend and Modulation Wheels
+The Pitch Bend wheel allows you to bend the pitch of a note up or down.
+The Modulation wheel is typically used to add vibrato or other modulation effects.
+Adjusting Volume and Octave Controls
+Use the Volume Slider to control the volume level of your MIDI output.
+The Octave Up/Down Buttons allow you to shift the keyboard's octave range up or down.
+6. Advanced Features
+
+Assigning Controls
+The KeyRig 49 allows you to assign the modulation wheel, pitch bend, volume slider, and other controls to different MIDI CC (Control Change) messages.
+Refer to your DAW’s manual for instructions on how to map these controls.
+Using with Virtual Instruments
+Load a virtual instrument in your DAW.
+Select the KeyRig 49 as the MIDI input source.
+Play the keyboard to trigger sounds from the virtual instrument.
+MIDI Mapping
+Most DAWs allow you to customize the MIDI mappings of your controller.
+This feature lets you assign specific controls on the KeyRig 49 to parameters in your DAW or virtual instruments.
+7. Troubleshooting
+
+No Sound
+Ensure the KeyRig 49 is properly connected to your computer.
+Check that the KeyRig 49 is selected as the MIDI input device in your DAW.
+Make sure your DAW's output is routed correctly to your speakers or headphones.
+Pitch Bend/Modulation Not Working
+Verify that the Pitch Bend and Modulation wheels are assigned to the correct MIDI CC messages in your DAW.
+Keys Not Responding
+Check the USB connection and try a different USB port.
+Restart your DAW and computer if necessary.
+8. Specifications
+
+Keyboard: 49 full-size, velocity-sensitive keys
+Controls: Pitch Bend wheel, Modulation wheel, Volume slider, Octave Up/Down buttons
+Inputs: Sustain pedal input
+Power: USB bus-powered
+Dimensions: [Insert Dimensions]
+Weight: [Insert Weight]
+9. Safety and Maintenance
+
+Safety: Avoid exposure to moisture, extreme temperatures, and physical shock.
+Maintenance: Clean with a dry, soft cloth. Do not use abrasive cleaners or solvents.
+10. Warranty Information
+
+The M-Audio KeyRig 49 comes with a 1-Year warranty. For more details, please visit the M-Audio website or refer to the warranty card included with your product.
+
+Thank you for choosing the M-Audio KeyRig 49 MIDI Keyboard. We hope it enhances your music production experience!
